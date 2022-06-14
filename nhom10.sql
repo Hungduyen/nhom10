@@ -305,6 +305,20 @@ CREATE TABLE IF NOT EXISTS `tbltinhthanh` (
 
 -- --------------------------------------------------------
 
+-- Cấu trúc bảng cho bảng `tblnguoiquanly`
+--
+
+DROP TABLE IF EXISTS `tblnhanvien`;
+CREATE TABLE IF NOT EXISTS `tblnhanvien` (
+  `maNV` int(10) NOT NULL AUTO_INCREMENT,
+  `HoTen` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `taikhoan` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `MK` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`maNV`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
 --
 -- Cấu trúc bảng cho bảng `tbltintuyendung`
 --
