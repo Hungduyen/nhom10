@@ -35,7 +35,7 @@
 								<li><a href="#">Veroeros feugiat</a></li>
 							</ul>
 						</li>
-						<li><a href="nhanvien">Nhân viên</a></li>
+						<li><a href="mentor">Nhân viên</a></li>
 						<li><a href="">Ứng tuyển</a></li>
 						<li><a href="">Tuyển dụng</a></li>
 					</ul>

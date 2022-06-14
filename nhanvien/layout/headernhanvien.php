@@ -51,7 +51,7 @@
             }
             else{
               echo "
-                <li><a href='login.php'>Đăng nhập</a></li>
+                <li><a href='dangnhapnhanvien.php'>Đăng nhập</a></li>
                 <li><a href='signup.php'>Đăng kí</a></li>
               ";
             }
