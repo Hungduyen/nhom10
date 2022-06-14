@@ -106,11 +106,11 @@
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 
-<?php include 'headernhanvien.php' ?>
+<?php include 'layout/headernhanvien.php' ?>
 	 
 	
   
-<?php include 'footernhanvien.php'; ?>
+<?php include 'layout/footernhanvien.php'; ?>
 </div>
 <!-- jQuery 3 -->
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
