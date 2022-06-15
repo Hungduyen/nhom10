@@ -310,10 +310,10 @@ CREATE TABLE IF NOT EXISTS `tbltinhthanh` (
 
 DROP TABLE IF EXISTS `tblnhanvien`;
 CREATE TABLE IF NOT EXISTS `tblnhanvien` (
-  `maNV` int(10) NOT NULL AUTO_INCREMENT,
-  `HoTen` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `taikhoan` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `MK` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `user_id` int(10) NOT NULL AUTO_INCREMENT,
+  `fullname` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `username` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `password` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`maNV`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
