@@ -36,7 +36,7 @@
 							</ul>
 						</li>
 						<li><a href="mentor/dangnhapnhanvien.php">Nhân viên</a></li>
-						<li><a href="">Ứng tuyển</a></li>
+						<li><a href="modules/user/models/JobSeekerController/jobSeekerPersonal.php">Ứng tuyển</a></li>
 						<li><a href="">Tuyển dụng</a></li>
 					</ul>
 				</nav>

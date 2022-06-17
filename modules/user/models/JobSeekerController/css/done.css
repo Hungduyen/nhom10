@@ -1,0 +1,30 @@
+.center_page{
+    background-color: white;
+    height: 650PX;
+    width: 1440px;
+    display: grid ;
+    top: 10px;
+    align-items: center;
+    left: 40px;
+    position: relative;
+    border-radius: 5px;
+}
+.center_page h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -20px;
+    width: auto;
+    text-align: start;
+}
+hr.line2{
+    border: 1px solid #B5B2B4;
+    width: 1300px;
+    top:5px ;
+}
+.form-control-file
+{                   
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
