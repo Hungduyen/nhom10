@@ -21,36 +21,60 @@
             </div>
         </div>
         <div class="content">
-            <div class="navigationBar-slide2">
+            <div class="navigationBar-slide4">
                 <form class="needs-validation m-auto" style="width: 1200px;" novalidate>
                 <h5 class="ml-2">Kỹ năng</h5>
                 <hr class="line1">
                 <p><i>Đánh dấu chọn các kỹ năng mềm hoặc sở trường</i></p>
                 <div class="justify-content-md-left">
                     <div class="form-check ml-3 font-weight-bold">
-                        <div class="form-check ml-3">
-                            <input type="checkbox" value="kn1"> Kỹ năng giao tiếp      
+                        <div class="row col-md-12">
+                            <div class="col-md-5">
+                                <div class="form-check ml-3">
+                                    <input type="checkbox" value="kn1"> Kỹ năng giao tiếp      
+                                </div> 
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-check ml-3">
+                                    <input  type="checkbox" value="kn2"> Kỹ năng làm việc nhóm                          
+                                </div>
+                            </div>
                         </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn2"> Kỹ năng làm việc nhóm                          
+                        <div class="row col-md-12">
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn3"> Kỹ năng tư duy và phản biện         
+                                </div> 
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn4"> Kỹ năng lãnh đạo                             
+                                </div>
+                            </div>
                         </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn3"> Kỹ năng tư duy và phản biện    
+                        <div class="row col-md-12">
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn5"> Kỹ năng thích nghi          
+                                </div> 
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn6"> Kỹ năng sắp xếp và lập kế hoạch                               
+                                </div>
+                            </div>
                         </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn4"> Kỹ năng lãnh đạo                          
-                        </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn5"> Kỹ năng thích nghi       
-                        </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn6"> Kỹ năng sắp xếp và lập kế hoạch                           
-                        </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn7"> Kỹ năng giải quyết vấn đề    
-                        </div>
-                        <div class="form-check mt-3 ml-3">
-                            <input  type="checkbox" value="kn8"> Kỹ năng tư duy sáng tạo
+                        <div class="row col-md-12">
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn7"> Kỹ năng giải quyết vấn đề      
+                                </div> 
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-check ml-3 mt-3">
+                                    <input  type="checkbox" value="kn8"> Kỹ năng tư duy sáng tạo                              
+                                </div>
+                            </div>
                         </div>
                     <div class="form-group col-12 mt-3">
                         <label for="example">Các kỹ năng khác:</label>
