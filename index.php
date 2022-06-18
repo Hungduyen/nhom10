@@ -35,9 +35,9 @@
 								<li><a href="#">Veroeros feugiat</a></li>
 							</ul>
 						</li>
-						<li><a href="nhanvien/dangnhap.php">Nhân viên</a></li>
-						<li><a href="modules/user/models/JobSeekerController/jobSeekerPersonal.php">Ứng tuyển</a></li>
-						<li><a href="">Tuyển dụng</a></li>
+						<li><a href="mentor/dangnhapnhanvien.php">Nhân viên</a></li>
+						<li><a href="">Ứng tuyển</a></li>
+						<li><a href="DoanhNghiep/congTy.php">Tuyển dụng</a></li>
 					</ul>
 				</nav>
 
